@@ -1,0 +1,32 @@
+{
+    "0": {
+        "email": "andrejuskol@yahoo.com",
+        "products_id": 1,
+        "quantity": "2"
+    },
+    "1": {
+        "email": "andrejuskolesnikovas@yhoo.com",
+        "products_id": 1,
+        "quantity": "10"
+    },
+    "2": {
+        "email": "andrejuskolesnikovas@yhoo.com",
+        "products_id": 1,
+        "quantity": "10"
+    },
+    "3": {
+        "email": "andrejuskolesnikovas@yhoo.com",
+        "products_id": 2,
+        "quantity": "10"
+    },
+    "4": {
+        "email": "andrejuskolesnikovas@yhoo.com",
+        "products_id": 3,
+        "quantity": "1"
+    },
+    "5": {
+        "email": "andrejuskolesnikovas@yhoo.com",
+        "products_id": 2,
+        "quantity": "1"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "book",
+        "quantity": 20
+    },
+    "2": {
+        "name": "sofa",
+        "quantity": 4
+    },
+    "3": {
+        "name": "chair",
+        "quantity": 1
+    }
+}

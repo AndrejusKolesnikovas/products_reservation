@@ -1,0 +1,19 @@
+{
+    "name": "andrejus/products_reservation",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andrejus\\ProductsReservation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AndrejusKolesnikovas",
+            "email": "andrejuskolesnikovas@yahoo.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    }
+}
